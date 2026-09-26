@@ -1,0 +1,12 @@
+{
+  "source": "INE_NOMENCLATOR",
+  "operation": "30261",
+  "referenceDate": "2025-01-01",
+  "publishedAt": "2026-01-28",
+  "downloadYearSelector": 2025,
+  "downloadedAt": "2026-09-26T04:22:00+00:00",
+  "downloadUrl": "https://www.ine.es/nomen2/Descarga",
+  "localZip": "data/raw/ine/nomenclator_nacional_2025.zip",
+  "license": "https://www.ine.es/aviso_legal",
+  "resultsPage": "https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177010&menu=resultados&idp=1254735572981"
+}

@@ -1,0 +1,52 @@
+# INE raw downloads (re-fetch via tools/data-pipeline)
+data/raw/ine/*.zip
+data/raw/ine/extracted/
+data/raw/ign/
+
+# Python
+tools/data-pipeline/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Android (future)
+*.iml
+.idea/
+.gradle/
+local.properties
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets / environment
+.env
+*.keystore
+*.jks
